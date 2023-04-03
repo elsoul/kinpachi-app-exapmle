@@ -1,7 +1,7 @@
 {
-  "name": "kinpachi-app",
-  "version": "0.0.1",
-  "description": "Kinpachi App",
+  "name": "kinpachi-app-example",
+  "version": "0.0.2",
+  "description": "Kinpachi App Example",
   "main": "dist/index.js",
   "author": "ELSOUL LABO B.V.",
   "license": "Apache-2.0",
