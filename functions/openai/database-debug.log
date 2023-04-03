@@ -1,0 +1,8 @@
+13:55:53.822 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+13:55:53.889 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9000
+13:55:55.173 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO com.firebase.core.namespace.NamespaceActor - kinpachi-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 49ms, init: 0ms
+13:55:55.200 [NamespaceSystem-blocking-namespace-operation-dispatcher-6] INFO com.firebase.core.namespace.StateManager - Namespace kinpachi-default-rtdb status Active to Active
+13:57:08.828 [Thread-0] INFO com.firebase.server.forge.App$ - Attempting graceful shutdown.
+13:57:08.830 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO com.firebase.core.namespace.Terminator$Terminator - 1 actors left to terminate: kinpachi-default-rtdb
+13:57:08.833 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO com.firebase.core.namespace.NamespaceActor - stopped namespace actor for kinpachi-default-rtdb
+13:57:08.835 [Thread-0] INFO com.firebase.server.forge.App$ - Graceful shutdown complete.
